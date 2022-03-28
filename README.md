@@ -6,6 +6,6 @@ This code comes with two items, one folder and one python file. The folder holds
 The Tkinter module is used to create the GUI, which helps you play the game. 
 The Random module is used to select random cards for each player.
 
-An example of the coding running is below:
+An example of the code running is below:
 
 ![](images/blackJackGIF.gif)
